@@ -7,7 +7,7 @@ import Website from './components/Website.vue'
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl lg:mx-0">
         <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Manuals & Webs</h2>
-        <p class="mt-2 text-lg leading-8 text-gray-600">List All Of The Manuals And Some of Websites</p>
+        <p class="mt-2 text-lg leading-8 text-gray-600">The Manuals of Rust</p>
       </div>
       <Website/>
 
